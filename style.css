@@ -1,0 +1,11 @@
+body
+{
+	background-color: #F4F4F4;
+}
+
+/* FONT LOADING EXAMPLE
+@font-face {
+	font-family: 'MyFont';
+	src: url('{{PATH_ORIGIN}}/public/fonts/Arvin_Regular.ttf') format('truetype');
+}
+*/
